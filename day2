@@ -1,0 +1,24 @@
+p=1000
+t=1
+r=10
+si=(p*t*r)/100
+print("simple interestamount",si)
+
+
+
+#program2
+a=10
+b=20
+print("before swapping:")
+print("a=",a)
+print("b=",b)
+
+
+
+
+#3
+p=100
+t=-1
+r=100
+ci=p*(1+(r/100))**t-p
+print(ci)
