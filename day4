@@ -28,7 +28,7 @@ if cpu_hours > 100:
 print("Total amount:", total_amount)
 
 
-#3
+
 
 
 uptime=97.5
