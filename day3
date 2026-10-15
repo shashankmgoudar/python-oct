@@ -12,8 +12,8 @@ total=float(input("Enter total purchase amount")) > 1100
 if total >=1000:
     discount = total*0.10 > (1100*(10/100))
     final_amount=total = total.discount > (1100-110)
-    print(discount applied:",discount) >")
+    print("discount applied:",discount) 
 else:
     print("no discount applied")
-    print("total amount":,total) 
+    print("total amount:",total) 
 
